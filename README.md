@@ -26,15 +26,25 @@ streamlit run app.py
 ## How to Use
 
 Select Stock Ticker: Choose from a list of popular stock tickers.
+
 Choose Time Period: Select a time period (24 hours, 5 days, 1 month, or max data) for the historical stock data.
+
 View Stock Data: Visualize historical data in the form of candlestick charts.
+
 Forecast Stock Prices: View the predicted stock prices for the next 30 days based on ARIMA modeling.
+
 Stock Information: View detailed stock info including market cap, P/E ratio, dividend yield, and financial performance.
 
 
 
 # Acknowledgements
 Streamlit: For building the interactive user interface.
+
 yFinance: For fetching the stock data.
+
 Plotly: For creating the interactive charts.
+
 statsmodels: For implementing the ARIMA model.
+
+#streamlit 
+https://stockpredictioninfo.streamlit.app/
